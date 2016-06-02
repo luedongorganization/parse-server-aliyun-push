@@ -1,0 +1,10 @@
+{
+  "name": "parse-server-aliyun-push",
+  "description": "A Parse Server push adapter using aliyun push",
+  "main": "src/AliyunPushAdapter.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "parse": "^1.8.5"
+  }
+}
